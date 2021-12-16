@@ -1,0 +1,26 @@
+[
+  {
+    "rank": 3,
+    "proficiency": 4,
+    "name": "Gordon Ramsay",
+    "catch-phrase": "Hey, panini head, are you listening to me?"
+  },
+  {
+    "rank": 2,
+    "proficiency": 3,
+    "name": "Chuck Norris",
+    "catch-phrase": "Chuck, are you choking again?"
+  },
+  {
+    "rank": 2,
+    "proficiency": 2,
+    "name": "Donald Duck",
+    "catch-phrase": "Donald, ready for a mac?"
+  },
+  {
+    "rank": 1,
+    "proficiency": 2,
+    "name": "Sponge Bob Sq Pants",
+    "catch-phrase": "Hey Patrick?"
+  }
+]
